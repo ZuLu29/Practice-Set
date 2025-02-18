@@ -3,10 +3,9 @@
 //class Person {  public $name;  public $age; }
 //$person = new Person(); 
 //$person->name = "Alice"; 
-//$person->age = 25; 
-
+//$person->age = 25;
 //print_r($person);
-////QUESTION1 Person Object ( [name] => Alice [age] => 25 )
+//QUESTION1 Person Object ( [name] => Alice [age] => 25 )
 
 //var_dump('Hello'); 
 //var_dump([1,2,3]); 
@@ -108,11 +107,11 @@
 //Question 15: What is the output of var_dump($chunkedArray);
 ////array(2) { [0]=> array(2) { [0]=> string(5) "apple" [1]=> string(6) "banana" } [1]=> array(1) { [0]=> string(6) "orange" } }
 
-$posts = [1]; 
-if (!empty($posts[0])) { 
-    echo $posts[0]; 
-   } else { 
-    echo 'There are no posts'; 
-   } 
-   
-?>
+//$posts = [1]; 
+//if (!empty($posts[0])) { 
+//    echo $posts[0]; 
+//   } else { 
+//    echo 'There are no posts'; 
+//   } 
+//   
+//?>
